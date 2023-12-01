@@ -7,3 +7,5 @@ One way to overcome this is by archeiving past works.
 Please contribute your answers. 
 
 Make a Pull request with solution (edit the tex file), I will review them and merge it.
+If you think the solution is wrong, please create issue. 
+
